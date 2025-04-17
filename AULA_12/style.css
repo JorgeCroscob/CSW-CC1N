@@ -1,0 +1,21 @@
+body{
+    background-image:linear-gradient(90deg ,#0664a4,#12a1e7, #05b1bf);
+}
+main{
+    width: 600px;
+    background-color: white;
+    padding: 30px;
+    border-radius:20px ;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    box-shadow:  30px 30px 30px black;
+}
+.titulo{
+    text-align: center;
+    color: blue;
+    
+}
+.subtitulo{
+    color: #0664a4;
+}
