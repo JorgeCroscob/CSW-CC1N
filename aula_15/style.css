@@ -1,0 +1,47 @@
+*body {
+    margin: 0;
+    padding: 0;
+}
+
+.dados_pessoais {
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+.dados_pessoais h2{
+    text-align: center;
+}
+.login{
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+.login h2{
+    text-align: center;
+}
+.text{
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+.esporte{
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    height: 100px;
+}
+.opcao{
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 80px;
+    margin: 20px;
+    padding: 10px;
+}
